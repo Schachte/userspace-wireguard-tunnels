@@ -2,6 +2,8 @@
 
 This is a very basic implementation of a user space Wireguard tunnel that can be used to proxy HTTP traffic through a Wireguard tunnel.
 
+I talk a bit more about this on my [blog which you can read here](https://ryan-schachte.com/blog/userspace_wireguard_tunnels/).
+
 # Run
 `go run .` or `go build && ./lockbox`
 
